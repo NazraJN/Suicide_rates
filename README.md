@@ -14,9 +14,9 @@ This project analyses suicide rates among men and women from selected countries 
 
 # Dataset
 
-The dataset used in this project is sourced from the World Health Organization (WHO) and is curated by Gapminder using data from WHO Violence and Injury Prevention (VIP) and WHO Global Burden of Disease 2002 and 2004. It provides information on age-adjusted suicide rates among males and females from 1950 to 2005.
+The dataset used in this project is sourced from the World Health Organization. It provides information on age-adjusted suicide rates among males and females from 1950 to 2005.
 
-The dataset includes the following fields:
+The dataset includes the following features:
 
 * Entity: The name of the country or region.
 * Year: The year of the recorded data.
