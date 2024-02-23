@@ -16,10 +16,10 @@ The dataset used in this project is sourced from the World Health Organization (
 
 The dataset includes the following fields:
 
-Entity: The name of the country or region.
-Year: The year of the recorded data.
-Male suicide rates for selected countries, 1950-2005 (WHO (2005)): Age-adjusted male suicide rates per 100,000 population for selected countries.
-Female suicide rates for selected countries, 1950-2005 (WHO (2005)): Age-adjusted female suicide rates per 100,000 population for selected countries.
+* Entity: The name of the country or region.
+* Year: The year of the recorded data.
+* Male suicide rates for selected countries, 1950-2005 (WHO (2005)): Age-adjusted male suicide rates per 100,000 population for selected countries.
+* Female suicide rates for selected countries, 1950-2005 (WHO (2005)): Age-adjusted female suicide rates per 100,000 population for selected countries.
 
 # Findings
 
