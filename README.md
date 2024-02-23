@@ -1,4 +1,4 @@
-# Suicide Rate Analysis
+# Suicide Rates Analysis
 
 # Overview
 According to the World Health Organization (WHO), suicide is a significant global public health issue, accounting for more than 1 in every 100 deaths worldwide. The WHO estimates that approximately 800,000 people die by suicide annually, with around 80% of these suicides occurring in low and middle-income countries. A concerning trend is that the global suicide rate is more than twice as high among men as it is among women.
