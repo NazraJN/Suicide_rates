@@ -6,6 +6,8 @@ According to the World Health Organization (WHO), suicide is a significant globa
 The reduction of suicide mortality is a key priority for the WHO, recognizing the need for comprehensive strategies to address this preventable cause of death. This priority is reflected in the United Nations Sustainable Development Goals (SDGs), specifically under target 3.4, which aims to "reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and wellbeing." This underscores the importance of mental health promotion and suicide prevention efforts as integral components of public health initiatives worldwide.
 
 # Objectives
+This project analyses suicide rates among men and women from selected countries to achieve the following objectives:
+
 1. To examine the trend in suicide rates between 1950 to 2005
 2. To compare variations in suicide rates by country
 3. To compare variations in suicide rates by gender
