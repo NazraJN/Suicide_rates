@@ -24,5 +24,11 @@ The dataset includes the following features:
 * Female suicide rates for selected countries, 1950-2005 (WHO (2005)): Age-adjusted female suicide rates per 100,000 population for selected countries.
 
 # Findings
+* Female suicide rates exhibited a consistent decline from the early 1980s to 2004. The peak of female suicide rates occurred in the early 1980s, followed by a notable decrease leading    into the mid to late 1990s and the early 2000s, where rates reached their lowest levels.
+* Somalia recorded the highest female suicide rate at 26.97 per 100,000 population, while Jordan recorded the lowest rate.
+* Male suicide rates far surpassed female rates both in countries where the highest and lowest female suicide rates were recorded, nearly tripling them.
+* Male suicide rates experienced a significant increase from 1980 to the early 2000s, followed by a sharp decline.
+* Lithuania exhibited the highest male suicide rate at approximately 62.98 per 100,000 population.
+* Hungary stood out for having high suicide rates among both men and women. In contrast, Jordan had the lowest suicide rates among both genders
 
 # Conclusions
