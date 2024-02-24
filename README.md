@@ -29,6 +29,4 @@ The dataset includes the following features:
 * Male suicide rates far surpassed female rates both in countries where the highest and lowest female suicide rates were recorded, nearly tripling them.
 * Male suicide rates experienced a significant increase from 1980 to the early 2000s, followed by a sharp decline.
 * Lithuania exhibited the highest male suicide rate at approximately 62.98 per 100,000 population.
-* Hungary stood out for having high suicide rates among both men and women. In contrast, Jordan had the lowest suicide rates among both genders
-
-# Conclusions
+* Hungary stood out for having high suicide rates among both men and women. In contrast, Jordan had the lowest suicide rates among both genders.
