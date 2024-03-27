@@ -8,9 +8,9 @@ The reduction of suicide mortality is a key priority for the WHO, recognizing th
 # Objectives
 This project analyses suicide rates among men and women from selected countries to achieve the following objectives:
 
-1. To examine the trend in suicide rates between 1950 to 2005
+1. To examine the trend in global suicide rates between 1950 to 2005
 2. To compare variations in suicide rates by country
-3. To compare variations in suicide rates by gender
+3. To compare variations in suicide prevalence by gender
 
 # Dataset
 
@@ -23,11 +23,17 @@ The dataset includes the following features:
 * Male suicide rates for selected countries, 1950-2005 (WHO (2005)): Age-adjusted male suicide rates per 100,000 population for selected countries.
 * Female suicide rates for selected countries, 1950-2005 (WHO (2005)): Age-adjusted female suicide rates per 100,000 population for selected countries.
 
-# Findings
-* Female suicide rates exhibited a consistent decline from the early 1980s to 2004. The peak of female suicide rates occurred in the early 1980s, followed by a notable decrease leading    into the mid to late 1990s and the early 2000s, where rates reached their lowest levels.
-* Somalia recorded the highest female suicide rate at 26.97 per 100,000 population, while Jordan recorded the lowest rate.
-* Male suicide rates far surpassed female rates both in countries where the highest and lowest female suicide rates were recorded, nearly tripling them. This corroborates research 
-  highlighting that males are more inclined to suicide than females.
-* Male suicide rates experienced a significant increase from 1980 to the early 2000s, followed by a sharp decline.
-* Lithuania exhibited the highest male suicide rate at approximately 62.98 per 100,000 population.
-* Hungary stood out for having high suicide rates among both men and women. In contrast, Jordan had the lowest suicide rates among both genders.
+# Method
+This project uses exploratory data analysis to generate insights on suicide rates.
+
+# Conclusions
+* Male suicide rates, on average, are approximately three times higher than female suicide rates, if not more. This significant difference highlights a gender disparity in suicide rates, with males exhibiting a notably higher rate of suicide compared to females. This trend is consistent with broader global patterns where male suicide rates tend to be higher than female rates across various regions and time periods.
+
+* Several factors contribute to this disparity, including differences in mental health stigma, help-seeking behavior, and societal expectations related to masculinity and emotional expression. Thus, while women tend to have higher rates of depression diagnoses and more incidences of suicide attempts, males are more likely to die from a suicide attempt because they tend to use more violent and effective methods, making them more likely to be completed before anyone can intervene.
+
+* Instances of gender inequality and violence, such as early and forced marriages, female genital mutilation, and intimate partner violence, contribute significantly to increased female suicidality. These socio-cultural factors create environments conducive to mental health challenges and suicide risk among women.
+
+* Years where significant macroeconomic and historical events are experienced, often coincide with instances of higher suicide mortality. These macroeconomic factors and their aftermath not only contribute to elevated suicide rates, but also seemingly disproportionately affect men compared to women, leading to a higher prevalence of male suicide mortality. The impact of policy-related economic uncertainty on mental health and well-being underscores the intricate relationship between economic conditions and suicide risk, highlighting the need for comprehensive support systems during years marked by macroeconomic disruptions.
+
+* Religion also plays a role in shaping suicide rates, with countries characterized by religious homogeneity often experiencing lower suicide mortalities. The integration of religious beliefs into governance and social structures seemingly coincides with lower suicide risk in certain communities, but may also contribute to underreporting on instances of suicide.
+
